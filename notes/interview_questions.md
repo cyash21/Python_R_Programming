@@ -11,3 +11,4 @@
 - what is a multi dimensional collection in python?
 - what is the difference between list of lists and list of tuples?
 - what is the difference between tuple of lists and tuple of tuples?
+- what is a dictionary? how is it different than list and tuple?
